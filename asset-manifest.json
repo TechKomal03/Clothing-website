@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clothing-website/static/css/main.18a2230d.css",
+    "main.js": "/Clothing-website/static/js/main.f45663bd.js",
+    "static/js/453.c62a88d1.chunk.js": "/Clothing-website/static/js/453.c62a88d1.chunk.js",
+    "index.html": "/Clothing-website/index.html",
+    "main.18a2230d.css.map": "/Clothing-website/static/css/main.18a2230d.css.map",
+    "main.f45663bd.js.map": "/Clothing-website/static/js/main.f45663bd.js.map",
+    "453.c62a88d1.chunk.js.map": "/Clothing-website/static/js/453.c62a88d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a2230d.css",
+    "static/js/main.f45663bd.js"
+  ]
+}
